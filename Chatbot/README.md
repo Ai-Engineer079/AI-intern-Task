@@ -33,7 +33,7 @@ This project implements a chatbot to answer frequently asked questions (FAQs) ab
 1. Ensure all dependencies are installed.
 2. Run the main script:
     ```bash
-    python main.py
+    python yolo_basics.py
     ```
 3. Access the chatbot interface in your browser using the provided Gradio link.
 
